@@ -6,7 +6,7 @@ sprite = pygame.image.load("block.png")
 x = 0
 y = 0
 
-FPS = 30
+FPS = 60
 
 BLACK = (0,0,0)
 
